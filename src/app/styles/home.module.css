@@ -1,0 +1,12 @@
+.main {
+  height: 100%;
+}
+
+.imageWrap {
+  margin: 30px 10px;
+}
+
+.image {
+  border-radius: 15px;
+  border: 1px solid white;
+}
